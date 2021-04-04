@@ -4,7 +4,7 @@
 
 #### Algorithms implemented:
 
-1. Breadth FIrst Search
+1. Breadth First Search
 2. Dijkstras 
 3. Strongly Connected Component
 
