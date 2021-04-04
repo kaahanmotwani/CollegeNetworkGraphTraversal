@@ -1,0 +1,5 @@
+Number of Components: 2
+Components: 
+0 1 
+2 3 
+
